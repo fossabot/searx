@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdimqua%2Fsearx.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdimqua%2Fsearx?ref=badge_shield)
+
 searx
 =====
 
@@ -51,3 +53,7 @@ More about searx
 
 .. |OpenCollective searx sponsors| image:: https://opencollective.com/searx/sponsors/badge.svg
    :target: https://opencollective.com/searx#sponsor
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdimqua%2Fsearx.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdimqua%2Fsearx?ref=badge_large)
